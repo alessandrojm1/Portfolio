@@ -1,6 +1,8 @@
 # Computer Scientist
 
 ### Edudation
-Computer science undergraduate at University of Houston with minors in Mathematics and Data & Society.
+Computer science undergraduate at University of Houston
 
 ### Projects
+[Publication](https://www.google.com)
+#![Title](/assets/img/title.jpeg)
